@@ -1,12 +1,12 @@
-Power BI Project Overview: Banking Performance Dashboard
+##                                           Power BI Project Overview: Banking Performance Dashboard
 
-Introduction:
+## Introduction:
 
 The Banking Performance Dashboard project, developed using Power BI, is designed to convert complex banking data into intuitive visualizations to aid strategic decision-making for bank executives, analysts, and managers. This project focuses on delivering a comprehensive view of various banking metrics, including loan performance, customer demographics, transaction volumes, and financial health indicators. The dashboard serves as an indispensable tool for monitoring, analyzing, and optimizing banking operations.
 
 Dataset_link:-https://drive.google.com/drive/folders/1pY-MsyfeKETT3GiGIYaMsYmrLgvlG5e8?usp=sharing
 
-Objectives
+## Objectives
 
 The primary objectives of this project are to:
 
@@ -21,7 +21,7 @@ Enhance Risk Management:
 
 Monitor risk indicators and compliance metrics to ensure adherence to regulatory requirements and minimize financial risk.
 
-Key Features
+## Key Features
 1. Interactive Dashboards 
 The Banking Performance Dashboard includes multiple interactive dashboards that allow users to drill down into specific data points. Users can filter data by time period, branch, product type, and customer segment, providing a customized view tailored to their specific needs.
 
@@ -39,7 +39,7 @@ Users can drill down from high-level summaries to detailed views. For example, s
 Key performance indicators (KPIs) such as revenue growth, customer acquisition, and transaction volumes are prominently displayed. These KPIs are updated in real-time and can be customized to align with the bank’s strategic goals.
 
 
-Implementation Steps
+## Implementation Steps
 
 Data Collection and Integration:
 Gather data from various sources and integrate them into a single Power BI dataset.
@@ -59,7 +59,7 @@ Test the dashboard with sample data and validate the accuracy of the visualizati
 Training and Support:
 Provide training to users on how to interact with the dashboard and interpret the visualizations.
 
-Conclusion
+## Conclusion
 
 The Banking Performance Dashboard project showcases the power of data visualization in enhancing banking operations. By leveraging Power BI, the project transforms complex banking data into intuitive and actionable insights, empowering stakeholders to make informed decisions. The dashboard's interactive features, real-time data integration, and comprehensive visualizations make it an essential tool for any banking institution.
 
